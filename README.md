@@ -58,7 +58,7 @@ Output Waveform
 
 Tabular Column
 
-![6th table](https://github.com/user-attachments/assets/d695fdb9-4533-40e3-8313-3e8653d77afb)
+![FM PYTHON](https://github.com/user-attachments/assets/1b0bc00c-fbba-4d61-aa72-4c5ba36e404c)
 
 
 Result
